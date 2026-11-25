@@ -18,7 +18,7 @@ export const DEFAULT_TEMPLATES = [
     width: 1024,
     height: 1024,
     aspectRatio: 1, // 1:1 square
-    flyerUrl: '/singapore-flyer.jpg?v=2',
+    flyerUrl: '/English.jpeg?v=2',
     // Width increased by 4px on both sides (+8px total width: 350.8px)
     slot: {
       xPercent: 23.3,
@@ -45,7 +45,7 @@ export const DEFAULT_TEMPLATES = [
     width: 1024,
     height: 1024,
     aspectRatio: 1, // 1:1 square
-    flyerUrl: '/singapore-flyer-zh.jpg?v=2',
+    flyerUrl: '/Chines.jpeg?v=2',
     // Width increased by 4px on both sides (+8px total width: 350.8px)
     slot: {
       xPercent: 23.3,
